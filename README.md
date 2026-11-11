@@ -29,4 +29,4 @@ Players can choose how many people are playing, and the game randomly assigns ro
 
 The goal was to build a simple but engaging party game while focusing on a smooth user experience, intuitive interactions, and keeping each player's role and word private during the game.
 
-This project also explores state management, randomization, conditional rendering, responsive UI design, and creating an interactive game flow from start to finish..
+This project also explores state management, randomization, conditional rendering, responsive UI design, and creating an interactive game flow from start to finish.
