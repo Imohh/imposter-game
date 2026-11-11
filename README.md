@@ -1,6 +1,6 @@
 # Imposter Game 🎭
 
-A fun multiplayer party game where players try to identify the **Imposter** among them.
+A fun multiplayer party game where players try to identify the **Imposter** among them..
 
 Players can choose how many people are playing, and the game randomly assigns roles. Everyone except one player receives the same secret word, while the Imposter either receives a blank word or is directly told that they are the Imposter.
 
